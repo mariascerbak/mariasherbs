@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria.  
 - 👀 I’m interested in using data to solve important problems to make a positive difference for companies and consumers alike.
-- 🌱 I’m currently learning the ins and outs of data analytics in the Google Data Analytics program.  
+- 🌱 I have completed the Google Data Analytics program as well as the Break Into Tech program, and am excited to continue expanding my knowledge of data analytics.  
 - 💞️ I’m looking to collaborate on entry-level projects, with interests in healthcare, human resources and product management.
 - 📫 How to reach me: Shoot me an email at scerbakm@umich.edu
 
